@@ -1,13 +1,15 @@
 # 💫 About Me:
 
-🚀 Science<br>🤖 IoT-ML<br>📽️ Cinema
-
 ![alt text](https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+🦇 Nocturnal<br>🚀 Science<br>🤖 IoT-ML<br>📽️ Cinema<br>🥷 Nonchalant
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafi.geo?igsh=MXRxcnMwcHVuYXd1Ng==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi geovazi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafi.geo?igsh=MXRxcnMwcHVuYXd1Ng==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafigeovazi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rafigeovazi1@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rafigeovazi)
 
 # 💻 Tech Stack:
 
