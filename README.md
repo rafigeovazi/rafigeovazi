@@ -5,7 +5,7 @@
 
 ![alt text](https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-🦇 Nocturnal<br>🚀 Science<br>🤖 IoT-ML<br>📽️ Cinema<br>🥷 Nonchalant
+🦇 Nocturnal<br>🚀 Science Junkie<br>🤖 IoT-ML Enthusiast<br>📽️ Filmaholic<br>🥷 Nonchalant
 
 ## 🌐 Socials:
 
