@@ -1,12 +1,21 @@
 <img src="GithubBanner.gif" alt="Animated Banner" style="max-width: 100%;" />
 
-## Hello World!, I'm Rafi Geovazi🤞
-## I Hope You Guys Enjoy Around Here Stealing My Code🫵
+<h1 align="center">Hello World!, I'm Rafi Geovazi, and I Hope Y'all Enjoy Stealing My Code🤞</h1>
+
 ## 💫 About Me:
+<img src="https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="280" />
+  <div>
+    <ul>
+      <li>🦇 Nocturnal</li>
+      <li>🚀 Science Junkie</li>
+      <li>🤖 IoT-ML Enthusiast</li>
+      <li>📽️ Filmaholic</li>
+      <li>🥷 Nonchalant</li>
+    </ul>
+  </div>
+  
+</div>
 
-![alt text](https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-🦇 Nocturnal<br>🚀 Science Junkie<br>🤖 IoT-ML Enthusiast<br>📽️ Filmaholic<br>🥷 Nonchalant
 
 ## 🌐 Socials:
 
@@ -23,14 +32,20 @@
   <a href="https://www.kaggle.com/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://discordapp.com/users/geo_gosling" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://gitlab.com/rafigeovazi" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
   <a href="https://boxd.it/cpvMp" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
-  <a href="https://gitlab.com/rafigeovazi" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <a href="https://www.imdb.com/user/rafigeovazi/" target="_blank">
+    <img src="https://img.shields.io/badge/IMDb-Gold?style=for-the-badge&logo=imdb&logoColor=black&color=FFD700" alt="IMDb"/>
+  </a>
+  <a href="https://discordapp.com/users/geo_gosling" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://pin.it/1ugQp1TMw" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
   </a>
 </p>
 
@@ -42,6 +57,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<div align="center">
 
 # 📊 GitHub Stats:
 
@@ -65,4 +82,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>Visitor Count</h3>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
