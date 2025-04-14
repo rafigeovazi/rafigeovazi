@@ -3,7 +3,7 @@
 <h1 align="center">Hello World!, I'm Rafi Geovazi, and I Hope Y'all Enjoy Stealing My Code🤞</h1>
 
 ## 💫 About Me:
-<img src="https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="280" />
+<img src="https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="180" />
   <div>
     <ul>
       <li>🦇 Nocturnal</li>
@@ -81,6 +81,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
-
 <h3>Visitor Count</h3>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
