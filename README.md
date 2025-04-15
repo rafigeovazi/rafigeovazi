@@ -12,10 +12,12 @@
         <li>🤖 IoT-ML Enthusiast</li>
         <li>📽️ Filmaholic</li>
         <li>🥷 Nonchalant</li>
+        <br/>
+        <img src="Geo'sWife.gif" width="100" height="102" />
       </ul>
     </td>
     <td align="right" valign="top">
-      <img src="GeoTheBatman.gif" width="350" height="240" />
+      <img src="GeoTheBatman.gif" width="390" height="270" />
     </td>
   </tr>
 </table>
