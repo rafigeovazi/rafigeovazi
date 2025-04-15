@@ -1,4 +1,4 @@
-<img src="GithubBanner.gif" alt="Animated Banner" style="max-width: 100%;" />
+<img src="MyBanner.gif" alt="Animated Banner" style="max-width: 100%;" />
 
 <h1 align="center">Hello World!, I'm Rafi Geovazi. Hope Y'all Enjoy Stealing My Code🤞</h1>
 
@@ -13,7 +13,7 @@
         <li>📽️ Filmaholic</li>
         <li>🥷 Nonchalant</li>
         <br/>
-        <img src="Geo'sWife.gif" width="100" height="102" />
+        <img src="MyWife.gif" width="100" height="90" />
       </ul>
     </td>
     <td align="right" valign="top">
