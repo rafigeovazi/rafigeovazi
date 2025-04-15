@@ -63,21 +63,21 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rafigeovazi&theme=outrun&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafigeovazi&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rafigeovazi&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
