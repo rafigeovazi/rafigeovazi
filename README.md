@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td align="right" valign="top">
-      <img src="https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif?cid=ecf05e47rewseq0ocu76y5yecl1t4q4gg9scr7qr5ao7p9g9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="240" />
+      <img src="GeoTheBatman.gif" width="350" height="240" />
     </td>
   </tr>
 </table>
