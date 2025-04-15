@@ -3,7 +3,7 @@
 <h1 align="center">Hello World!, I'm Rafi Geovazi, Hope Y'all Enjoy Stealing My Code🤞</h1>
 
 ## 💫 About Me:
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
