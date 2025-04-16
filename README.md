@@ -63,6 +63,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<div align="center">
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -82,7 +84,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 <h3>Visitor Count</h3>
