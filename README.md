@@ -43,14 +43,11 @@
   <a href="https://boxd.it/cpvMp" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
-  <a href="https://www.imdb.com/user/rafigeovazi/" target="_blank">
+  <a href="https://www.imdb.com/user/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/IMDb-Gold?style=for-the-badge&logo=imdb&logoColor=black&color=FFD700" alt="IMDb"/>
   </a>
   <a href="https://discordapp.com/users/geo_gosling" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://pin.it/1ugQp1TMw" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
   </a>
 </p>
 
