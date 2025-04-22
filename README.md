@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
   <a href="https://www.codedex.io/@G-TheConqueror" target="_blank">
-    <img src="https://img.shields.io/badge/CodeDex-FFD700?style=for-the-badge&labelColor=000000&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwQzUuNCAwIDAgNS40IDAgMTJzNS40IDEyIDEyIDEyIDEyLTUuNCAxMi0xMlMxOC42IDAgMTIgMHptMCAyMmMtNS41IDAtMTAtNC41LTEwLTEwUzYuNSAyIDEyIDJzMTAgNC41IDEwIDEwLTQuNSAxMC0xMCAxMHptMC0xOEM3LjYgNCA0IDcuNiA0IDEyczMuNiA4IDggOCA4LTMuNiA4LThTMTYuNCA0IDEyIDR6Ii8+PC9zdmc+" alt="CodeDex"/>
+    <img src="https://img.shields.io/badge/Codedex-FFFF00?style=for-the-badge&logo=&logoColor=white&labelColor=000000" alt="Codedex"/>
   </a>
   <a href="https://discordapp.com/users/geo_gosling" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
