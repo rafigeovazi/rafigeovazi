@@ -8,8 +8,8 @@
     <td align="left" valign="top">
       <ul>
         <li>🚀Science Junkie / Astronomy Explorer🔭</li>
-        <li>🤖IoT-ML-BioTechnology Enthusiast🧪</li>
-        <li>📽️Filmaholic</li>
+        <li>🤖IoT-ML-BioTechnology Enthusiast🧬</li>
+        <li>📺Filmaholic</li>
         <li>🦇Nocturnal</li>
         <li>🥷Nonchalant</li>
         <br/>
