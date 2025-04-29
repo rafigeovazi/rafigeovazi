@@ -7,11 +7,11 @@
   <tr>
     <td align="left" valign="top">
       <ul>
-        <li>🦇 Nocturnal</li>
-        <li>🚀 Science Junkie</li>
-        <li>🤖 IoT-ML Enthusiast</li>
-        <li>📽️ Filmaholic</li>
-        <li>🥷 Nonchalant</li>
+        <li>🚀Science Junkie / Astronomy Explorer🔭</li>
+        <li>🤖IoT-ML-BioTechnology Enthusiast🧪</li>
+        <li>📽️Filmaholic</li>
+        <li>🦇Nocturnal</li>
+        <li>🥷Nonchalant</li>
         <br/>
         <img src="MyWife.gif" width="100" height="90" />
       </ul>
