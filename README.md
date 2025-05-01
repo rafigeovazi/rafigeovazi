@@ -7,7 +7,7 @@
   <tr>
     <td align="left" valign="top">
       <ul>
-        <li>🚀Science Junkie / Astronomy Explorer🔭</li>
+        <li>🚀Science Junkie / Space Explorer🔭</li>
         <li>🤖IoT-ML-BioTechnology Enthusiast🧬</li>
         <li>📺Filmaholic</li>
         <li>🦇Nocturnal</li>
