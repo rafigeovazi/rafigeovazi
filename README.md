@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## <img src="emoji/sonic-wait.gif" width="40"/>GitHub Stats:
+## <img src="emoji/sonic-wait.gif" width="40"/>GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <img height="230" width="150" src="left.png"/>
