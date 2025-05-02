@@ -1,6 +1,6 @@
 <img src="MyBanner.gif" alt="Animated Banner" style="max-width: 100%;" />
 
-<h1 align="center">Hello World!, Rafi Geovazi Here. Hope Y'all are Having Fun Stealing My Code🤞</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HeyYo Folks!! Rafi Geovazi Here. Hope Y'all are Having Fun Stealing My Code🤞</h1>
 
 ## 💫 About Me:
 <table>
