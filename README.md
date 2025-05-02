@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## <img src="emoji/sonic-wait.gif" width="35"/>GitHub Stats:
+## <img src="emoji/sonic-wait.gif" width="40"/>GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <img height="230" width="150" src="left.png"/>
@@ -70,7 +70,7 @@
 <img height="230" width="150" src="right.png"/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafigeovazi&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## <img src="emoji/knuckles.gif" width="35"/>GitHub Trophies
+## <img src="emoji/knuckles.gif" width="40"/>GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rafigeovazi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
@@ -78,7 +78,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-## <img src="emoji/yoshi_spin.gif" width="20"/> Top Contributed Repo
+## <img src="emoji/yoshi_spin.gif" width="25"/> Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
