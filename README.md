@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-## <img src="emoji/Earth.gif" width="30"/> Socials:
+## <img src="emoji/earth.gif" width="27"/> Socials:
 
 <p align="left">
   <a href="https://www.instagram.com/rafi.geo?igsh=MXRxcnMwcHVuYXd1Ng==" target="_blank">
@@ -78,7 +78,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-## <img src="emoji/yoshi_spin.gif" width="20"/> Top Contributed Repo
+## <img src="emoji/yoshi_spin.gif" width="23"/> Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
