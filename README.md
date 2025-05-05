@@ -83,9 +83,6 @@
 ## <img src="emoji/yoshi_spin.gif" width="20"/> Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-  
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 <h3>Visitor Count</h3>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
