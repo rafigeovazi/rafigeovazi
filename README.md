@@ -3,7 +3,6 @@
 <h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> HeyYo Folks!! Rafi Geovazi Here. Hope Y'all are Having Fun Stealing My Code🤞</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="30"/> About Me:
-<img src="sigma.gif" width="150" height="150" />
 <table>
   <tr>
     <td align="left" valign="top">
@@ -90,3 +89,9 @@
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 <h3>Visitor Count</h3>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
+
+---
+
+<img src="sigma.gif" width="150" height="150" />
+
+# Ciao<img src="emoji/xd-blob.gif" width="27"/>
