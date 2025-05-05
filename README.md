@@ -3,6 +3,7 @@
 <h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> HeyYo Folks!! Rafi Geovazi Here. Hope Y'all are Having Fun Stealing My Code🤞</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="30"/> About Me:
+<img src="sigma.gif" width="150" height="150" />
 <table>
   <tr>
     <td align="left" valign="top">
@@ -13,8 +14,7 @@
         <li>🦇Nocturnal</li>
         <li>🥷Nonchalant</li>
         <br/>
-        <img src="sigma.gif" width="85" height="90" /> &nbsp;
-        <img src="MyWife.gif" width="82" height="75" />
+        <img src="MyWife.gif" width="83" height="75" />
       </ul>
     </td>
     <td align="right" valign="top">
