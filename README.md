@@ -13,7 +13,8 @@
         <li>🦇Nocturnal</li>
         <li>🥷Nonchalant</li>
         <br/>
-        <img src="MyWife.gif" width="90" height="75" />
+        <img src="sigma.gif" width="85" height="90" /> &nbsp;
+        <img src="MyWife.gif" width="82" height="75" />
       </ul>
     </td>
     <td align="right" valign="top">
