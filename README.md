@@ -9,7 +9,7 @@
       <ul>
         <li>🤖IoT & ML Aficionado💻</li>
         <li>🚀Science Junkie / Space Explorer🔭</li>
-        <li>🧬Bio / NeuroTechnology Enthusiast🧠</li>
+        <li>🧬BioTech / NeuroTechnology Enthusiast🧠</li>
         <li>📺Filmaholic & Music Geek🎧</li>
         <li>🦇Nocturnal</li>
         <li>🥷Nonchalant</li>
