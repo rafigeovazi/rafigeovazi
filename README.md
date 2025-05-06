@@ -7,9 +7,10 @@
   <tr>
     <td align="left" valign="top">
       <ul>
-        <li>🤖IoT-ML-BioTechnology Enthusiast🧬</li>
+        <li>🤖IoT & ML Aficionado💻</li>
         <li>🚀Science Junkie / Space Explorer🔭</li>
-        <li>📺Filmaholic</li>
+        <li>🧬Bio / NeuroTechnology Enthusiast🧠</li>
+        <li>📺Filmaholic & Music Geek🎧</li>
         <li>🦇Nocturnal</li>
         <li>🥷Nonchalant</li>
         <br/>
