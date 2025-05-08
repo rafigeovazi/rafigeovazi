@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.w3profile.com/rafigeovazi" target="_blank">
-    <img src="https://img.shields.io/badge/W3Schools-007A4D?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
+    <img src="https://img.shields.io/badge/W3Schools-228B22?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
   </a>
   <a href="https://www.kaggle.com/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
