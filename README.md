@@ -35,7 +35,7 @@
   <a href="mailto:rafigeovazi1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.w3schools.com/rafigeovazi" target="_blank">
+  <a href="https://www.w3profile.com/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/W3Schools-007A4D?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
   </a>
   <a href="https://www.kaggle.com/rafigeovazi" target="_blank">
