@@ -90,11 +90,18 @@
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ## Help by Donating (I'm Broke af) 📉
-<img src="paypal_qr.png" width="200" height="200" />
-<br/>
+
 <a href="https://paypal.me/rafigeovazi?country.x=ID&locale.x=en_US" target="_blank">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
+<br/>
+<img src="paypal_qr.png" width="200" height="200" />
+<br/>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Dana-007FFF?style=for-the-badge&logo=&logoColor=white&labelColor=FFFFFF" alt="Codedex"/>
+</a>
+<br/>
+<img src="dana_qr.jpeg" width="200" height="200" />
 <h3>Visitor Count</h3>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
 
