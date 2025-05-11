@@ -89,8 +89,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rafigeovazi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=rafigeovazi&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## Donating (I'm Broke af)
-<a href="https://www.paypal.com/paypalme/rafigeo" target="_blank">
+## Help me by Donating (I'm Broke af) 📉
+<img src="paypal_qr.png" width="200" height="200" />
+<br/>
+<a href="https://paypal.me/rafigeovazi?country.x=ID&locale.x=en_US" target="_blank">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
 <h3>Visitor Count</h3>
