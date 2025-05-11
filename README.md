@@ -68,7 +68,7 @@
 
 <div align="center">
 
-## <img src="emoji/sonic-dance.gif" width="55"/>GitHub Stats
+## GitHub Stats<img src="emoji/sonic-dance.gif" width="55"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <img height="230" width="150" src="left.png"/>
@@ -80,7 +80,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=rafigeovazi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## <img src="emoji/mario_sleep.gif" width="30"/> Random Dev Quote
+## Random Dev Quote <img src="emoji/mario_sleep.gif" width="30"/> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
