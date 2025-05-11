@@ -76,7 +76,7 @@
 <img height="230" width="150" src="right.png"/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafigeovazi&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## <img src="emoji/knuckles.gif" width="35"/>GitHub Trophies
+## <img src="emoji/knuckles.gif" width="40"/>GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rafigeovazi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
