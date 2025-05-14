@@ -44,13 +44,16 @@
   <a href="https://gitlab.com/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
+  <a href="https://stackoverflow.com/users/30532775/geosling" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
   <a href="https://boxd.it/cpvMp" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
   <a href="https://www.codedex.io/@G-TheConqueror" target="_blank">
     <img src="https://img.shields.io/badge/Codedex-FFFF00?style=for-the-badge&logo=&logoColor=white&labelColor=000000" alt="Codedex"/>
   </a>
-  <a href="https://discordapp.com/users/geo_gosling" target="_blank">
+  <a href="https://discordapp.com/users/bugzslayer69" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
