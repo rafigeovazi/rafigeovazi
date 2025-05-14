@@ -44,9 +44,6 @@
   <a href="https://gitlab.com/rafigeovazi" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
-  <a href="https://stackoverflow.com/users/30532775/geosling" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
   <a href="https://boxd.it/cpvMp" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
@@ -55,6 +52,9 @@
   </a>
   <a href="https://discordapp.com/users/bugzslayer69" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+   <a href="https://stackoverflow.com/users/30532775/geosling" target="_blank">
+     <img src="https://img.shields.io/badge/StackOverflow-FFFFFF?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16&labelColor=FFFFFF&color=FFFFFF"alt="StackOverflow"/>
   </a>
 </p>
 
