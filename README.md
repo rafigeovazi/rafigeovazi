@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/rafi.geo?igsh=MXRxcnMwcHVuYXd1Ng==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="www.linkedin.com/in/rafi-geovazi-b78425304" target="_blank">
+  <a href="http://www.linkedin.com/in/rafi-geovazi-thebatman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rafigeovazi1@gmail.com" target="_blank">
