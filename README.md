@@ -5,7 +5,7 @@
 ## <img src="emoji/rabbit-dance_pbj.gif" width="25"/> About Me:
 <table>
   <tr>
-    <td align="left" valign="top">
+    <td align="left" valign="top" width="50%">
       <ul>
         <li>🤖 IoT-ML Aficionado 💻</li>
         <li>🚀 Science Junkie ||| Space Explorer 🔭</li>
@@ -14,11 +14,11 @@
         <li>🦇 Nocturnal</li>
         <li>🥷 Nonchalant</li>
         <br/>
-        <img src="MyWife.gif" width="83" height="75" />
+        <img src="MyWife.gif" width="80" height="72" />
       </ul>
     </td>
-    <td align="right" valign="top">
-      <img src="GeoTheBatman.gif" width="390" height="270" />
+    <td align="right" valign="top" width="50%">
+      <img src="GeoTheBatman.gif" style="width: 100%; max-width: 390px; height: auto;" />
     </td>
   </tr>
 </table>
