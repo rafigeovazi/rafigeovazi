@@ -1,6 +1,6 @@
 <img src="WBanner.gif" style="max-width: 100%;" />
 
-<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> ℍ𝕖𝕪𝕐𝕠 𝔽𝕠𝕝𝕜𝕤!! ℛ𝒶𝒻𝒾 𝒢𝑒𝑜𝓋𝒶𝓏𝒾 ʜᴇʀᴇ. ʜᴏᴘᴇ ʏ'ᴀʟʟ ᴀʀᴇ ʜᴀᴠɪɴ ꜰᴜɴ ꜱᴛᴇᴀʟɪɴ' ᴍʏ ᴄᴏᴅᴇ🤞</h1>
+<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> ℍ𝕖𝕪𝕐𝕠 𝔽𝕠𝕝𝕜𝕤!! ℛ𝒶𝒻𝒾 𝒢𝑒𝑜𝓋𝒶𝓏𝒾 ℍᴇʀᴇ. ℍᴏᴘᴇ 𝕐'ᴀʟʟ ᴀʀᴇ ℍᴀᴠɪɴ 𝔽ᴜɴ 𝕊ᴛᴇᴀʟɪɴ' 𝕄ʏ ℂᴏᴅᴇ🤞</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="25"/> About Me:
 <table>
