@@ -15,7 +15,7 @@
         <li>🦇 Nocturnal</li>
         <li>🥷 Nonchalant</li>
         <br/>
-        <img src="MyWife.gif" width="80" height="72" />
+        <img src="MyWife.gif" width="77" height="69" />
       </ul>
     </td>
     <td align="right" valign="top" width="50%">
