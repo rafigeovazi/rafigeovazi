@@ -7,7 +7,7 @@
   <tr>
     <td align="left" valign="top" width="50%">
       <ul>
-        ☝️🤓 Verified Nerd <img src="emoji/bluetick.png" width="18"/>
+        ☝️🤓 𝚅̲𝚎̲𝚛̲𝚒̲𝚏̲𝚒̲𝚎̲𝚍̲ 𝙽̲𝚎̲𝚛̲𝚍̲ <img src="emoji/bluetick.png" width="18"/>
         <li>🤖 IoT-ML Aficionado 💻</li>
         <li>🚀 Science Junkie ||| Space Explorer 🔭</li>
         <li>🧬 BioTech ||| NeuroTechnology Enthusiast 🧠</li>
