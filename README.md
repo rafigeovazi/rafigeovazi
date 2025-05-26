@@ -109,7 +109,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
 
 ---
-## 𝖪౿౿ρ Ⲋɣᑲⲁᥙ
+## 𝖪౿౿ρ Ⲋɣᑲⲁυ
 <img src="sigma.gif" width="150" height="150" />
 
 ## 𝙲𝚒ⲁσ.<img src="emoji/xd-blob.gif" width="33"/>
