@@ -75,9 +75,9 @@
 ## ᘜɩtᖾᥙᑲ ᔑtⲁt⳽<img src="emoji/sonic-dance.gif" width="50"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=rafigeovazi&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)<br/>
-<img height="230" width="150" src="left.png"/>
+<img height="500" width="150" src="left.png"/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rafigeovazi&theme=outrun&hide_border=true)
-<img height="230" width="150" src="right.png"/><br/>
+<img height="500" width="150" src="right.png"/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafigeovazi&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## <img src="emoji/knuckles.gif" width="38"/>ᘜɩtᖾᥙᑲ Ʈɾoρᖾɩᥱ⳽
@@ -107,7 +107,7 @@
 <br/>
 <img src="dana_qr.jpeg" width="200" height="200" />
 <h3>Visitor Count</h3>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafigeovazi}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/rafigeovazi/count.svg" /></p>
 
 ---
 ## 𝖪౿౿ρ ᔑɣɳⲁυ
