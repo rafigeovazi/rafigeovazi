@@ -106,8 +106,6 @@
 </a>
 <br/>
 <img src="dana_qr.jpeg" width="200" height="200" />
-<h3>Visitor Count</h3>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/rafigeovazi/count.svg" /></p>
 
 ---
 ## 𝖪౿౿ρ ᔑɣɳⲁυ
