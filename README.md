@@ -48,6 +48,9 @@
   <a href="https://boxd.it/cpvMp" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd"/>
   </a>
+  <a href="https://pinterest.com/rafigeovazi" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
   <a href="https://www.codedex.io/@G-TheConqueror" target="_blank">
     <img src="https://img.shields.io/badge/Codedex-FFFF00?style=for-the-badge&logo=&logoColor=white&labelColor=000000" alt="Codedex"/>
   </a>
