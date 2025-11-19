@@ -1,6 +1,6 @@
 <img src="WBanner.gif" style="max-width: 100%;" />
 
-<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> HeyYo Folks!! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here. Hope y'all are havin fun stealinq my code🤞</h1>
+<h1 align="center"><img src="emoji/blob-cool.gif" width="30"/> Sup Fella!! ℝ𝕒𝕗𝕚 𝔾𝕖𝕠𝕧𝕒𝕫𝕚 here. Enjoy stealinq my code🤞</h1>
 
 ## <img src="emoji/rabbit-dance_pbj.gif" width="25"/> 𝖠ᑲ𝗈υ𝗍 𝖬౿:
 <table>
