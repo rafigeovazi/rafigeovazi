@@ -54,6 +54,9 @@
   <a href="https://www.codedex.io/@G-TheConqueror" target="_blank">
     <img src="https://img.shields.io/badge/Codedex-FFFF00?style=for-the-badge&logo=&logoColor=white&labelColor=000000" alt="Codedex"/>
   </a>
+  <a href="https://play.picoctf.org/users/Ragebaiter67" target="_blank">
+    <img src="https://img.shields.io/badge/picoCTF-1A2B33?style=for-the-badge&logo=securityscorecard&logoColor=FF6B6B" alt="picoCTF"/>
+  </a>
   <a href="https://discordapp.com/users/bugzslayer69" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
